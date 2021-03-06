@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_title_size">35sp</dimen>
+    <dimen name="content_padding">10sp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="main_logo_size">200dp</dimen>
+    <dimen name="radius_size">5dp</dimen>
+    <dimen name="card_image_size">50dp</dimen>
+    <dimen name="card_padding">15dp</dimen>
+    <dimen name="card_image_r_margin">16dp</dimen>
+</resources>

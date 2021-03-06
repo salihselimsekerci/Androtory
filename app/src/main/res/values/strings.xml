@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Androtroy</string>
+    <string name="app_title">Android Sürümleri Tarihi Hakkında Bir Mobil Uygulama</string>
+    <string name="bg_name">bg.jpeg</string>
+    <string name="please_wait">Lütfen bekleyiniz...</string>
+    <string name="exit">Çıkış Yap</string>
+    <string name="exit_sure">Çıkış yapmak istiyor musunuz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="no_internet_connection">İnternet bağlantısı yok</string>
+    <string name="connect_internet">Uygulamayı kullanmak için internete bağlayın</string>
+    <string name="go_settings">Ayarlara Git</string>
+    <string name="close">Kapat</string>
+</resources>

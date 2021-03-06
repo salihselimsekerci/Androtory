@@ -1,0 +1,58 @@
+{
+    "versions" : [
+        {
+            "name": "No-name",
+            "version": "1.0",
+            "release_date": "23 Eylül 2008",
+            "text": "Bu yeni işletim sistemi ilk defa HTC Dream isimli telefon modelini çalıştırıyordu. İşletim sisteminde, kamera desteği, GPS özelliği, Youtube ve Gmail uygulamaları gibi pratik uygulamalar yer aldığı gibi, yeni uygulamalar da indirip kurmak mümkün oluyordu.",
+            "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version1_logo.png",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version1_img.png"
+            
+        },
+        {
+            "name": "Eclair",
+            "version": "2.0 - 2.1",
+            "release_date": "26 Ekim 2009",
+            "text": "Android 1.0’ın piyasaya sürülmesinden bir yıl sonra, Google, işletim sisteminin 2.0 sürümünü Eclair resmi koduyla yayınladı. Bu sürüm, metinden konuşmaya destek ekleyen ilk sürümdü ve ayrıca birçok yeni özellik ve geliştirmeye ek olarak canlı duvar kağıtları, çoklu hesap desteği ve Google Haritalar navigasyonunu tanıttı.",
+            "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version2_logo.png",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version2_img.png"
+            
+        },
+        {
+            "name": "Lollipop",
+            "version": "5.0 - 5.1.1",
+            "release_date": "12 Kasım 2014",
+            "text": "İşletim sisteminin genel görünümünde büyük bir değişklik idi. Android’in kullanıcı arayüzüne kâğıda benzeyen bir görünüm taklit etmek için ışıklandırma ve gölge efektlerinden serbestçe yararlanan, Google’ın yeni Materyal Tasarımı dilini kullanan işletim sisteminin ilk sürümü olarak tarihteki yerini aldı.",
+	    "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version5_logo.png",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version5_img.png"
+            
+        },
+        {
+            "name": "Pie",
+            "version": "9.0",
+            "release_date": "6 Ağustos 2018",
+            "text": "Android 9.0 Pie, hangi uygulamaları kullanacağınızı ve daha sonra hangi uygulamaları kullanmayacağınızı tahmin etmek için cihaz içi makine kullanımı da dahil olmak üzere akıllı telefonunuzun pil ömrünü uzatmak için tasarlanmış bazı yeni özellikler içeriyordu.",
+            "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version9_logo.jpg",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version9_img.png"
+            
+        },
+        {
+            "name": "Android 10(Q)",
+            "version": "10.0",
+            "release_date": "3 Eylül 2019",
+            "text": "Daha önceden de bilindiği gibi bu yeni güncellemede karanlık mod desteğinin geleceği tahmin ediliyordu ve öyle de oldu. Karanlık modun yanı sıra güncelleme kapsamında en çok dikkat çeken yeni özellik jest navigasyon sistemi olarak karşımıza çıktı. Bu özellik şu an için kusursuz bir şekilde kullanılamıyor ancak yakın zaman içerisinde gelecek yeni güncellemeler ile özelliğinin sorunsuz şekilde çalışması mümkün olacak. Diğer bir yeni özellik ise ekran kaydı özelliği oldu. iPhone cihazlarda halihazırda uzun süredir bulunan ekran kaydı özelliği sonunda Android’e de geldi. Ekstra bir program kurulmasına gerek kalmadan ekran kaydı almak artık mümkün. Akıllı yanıtlar özelliği sayesinde ise gelen bildirimlere göre işlem önerileri veriliyor. Önek verecek olursak, birisi size konum gönderdiği zaman, cihaz size Google Haritalar’ı direkt olarak açmayı öneriyor. Güncellemenin asıl can alıcı noktasının güvenlik konusunda olduğu daha önceden ifade edilmişti. Evet bu yukarıdaki kısımda saydığımız yeni özellikler kullanıcıların ilgisini çekti ama asıl olay güvenlik bölümünde. 50 yeni gizlilik ve güvenlik ayarının gelmesi ile birlikte en çok göze batanlardan biri konum özelliğinin kapalı olduğu her anda ek uygulamaların konumunuza erişmesi imkansız hale geliyor. Güncelleme sonrasında cihaz bu gizliliğin delinmeye çalışılması halinde kullanıcıya uyarı mesajı gönderiyor ve kullanıcısının istemesi halinde gerekenleri yapıyor.",
+            "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version10_logo.jpg",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version10_img.jpg"
+            
+        },
+        {
+            "name": "Android 11",
+            "version": "Android 11",
+            "release_date": "8 Eylül 2020",
+            "text": "Konuşmalar özelliği bildirim alanının üst kısmında olan özel bölümde yer alır. Bu özellik sayesinde konuşmayı baloncuk olarak açma, ana ekranda konuşma kısayolu oluşturma ya da çok önemli olmayan bir mesaj için hatırlatma ayarlama şeklinde özellikleri bulunmaktadır. Sesli erişim kısmında ise Google Asistan kullanılarak telefonlar tamamen ses ile kontrol eden kullanıcılar bulunmaktadır. Yeni ses deneyiminin daha da güzel olduğunu sizlerle paylaşabiliriz. Cihaz kontrolü, Android 11 beta güncellemesini daha da fazla kontrollü hale getiriyor. Cihaz kontrolleri gelen güncelleme ile daha da hızlı bir şekilde gerçekleşiyor. Medya kontrolü, Android 11 beta medya kontrollerini güncelliyor. Cihaz değiştirmeleri daha da hızlı ve basit bir şekilde gerçekleşiyor.",
+            "logo_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version11_logo.jpg",
+            "img_url": "https://raw.githubusercontent.com/salihselimsekerci/hr190023salihselimsekerci/main/images/version11_img.jpg"
+            
+        }
+    ]
+}
