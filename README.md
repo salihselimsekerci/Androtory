@@ -3,7 +3,6 @@
 
 # Androtory
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c44ab6eb2e03498d950a4539b2e69f14)](https://app.codacy.com/gh/salihselimsekerci/hr190023salihselimsekerci?utm_source=github.com&utm_medium=referral&utm_content=salihselimsekerci/hr190023salihselimsekerci&utm_campaign=Badge_Grade_Settings)
 
 ![ic_launcher](https://user-images.githubusercontent.com/53614606/103442316-1b1a0f80-4c66-11eb-84d5-4380e65905ba.png)
 
