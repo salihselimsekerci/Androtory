@@ -1,5 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/53614606/103442328-456bcd00-4c66-11eb-8028-28a95b338044.png)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1704368517454dd9aeb6baeb358adef0)](https://www.codacy.com/gh/salihselimsekerci/Androtory/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=salihselimsekerci/Androtory&amp;utm_campaign=Badge_Grade)
+
 
 # Androtory
 
